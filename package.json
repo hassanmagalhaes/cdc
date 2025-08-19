@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "ministerio-infantil",
   "version": "0.1.0",
   "private": true,
@@ -38,5 +39,28 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+=======
+  "name": "nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "next": "15.4.6"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@tailwindcss/postcss": "^4",
+    "tailwindcss": "^4"
+>>>>>>> 1056525f33f8769331f151dc1a1df368d7b8b4a7
   }
 }
